@@ -1,4 +1,4 @@
-Skyhook_Damping - additional images included above
+Skyhook_Damping - additional images included above, video also included
 
 A physical model of the quarter car problem using CAD-designed parts. Uses ESP32 microcontroller and ToF sensor to control a servo motor that acts as an actuator in an active suspension system. The goal was to decrease the RMS of the body plate movement, as this would represent an increase in ride comfort.
 <img width="3000" height="4000" alt="circuit" src="https://github.com/user-attachments/assets/1467ed0c-e8ed-47c4-b82f-e1e58d09e67b" />
